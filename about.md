@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Projects
+title: About Me
 ---
 
-#About Me
+# About Me
 
-##Some Fun Facts
+## Some Fun Facts
